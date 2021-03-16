@@ -1,9 +1,8 @@
 # Tetris
 ## Run Project
 To run the project (assuming you have java installed):  
-1: Download the /dist folder and run the Tetris.jar file  
-or  
-2: While inside the /dist directory run the command java -jar Tetris.jar  
+1: Download  'dist_zipped.zip'
+2: Unzip the file and run 'Tetris.jar'
 
 ## Controls
 Arrow keys to manipulate the tetromino  
